@@ -1,0 +1,129 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.header{
+   height: 60px;
+   background-color: #7dc9e6;
+
+   padding: 5px 40px;
+
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+
+   .header__title {
+      color: #323232;
+      font-size: 20px;
+   }
+}
+
+.main {
+
+   .addStudent {
+      margin-bottom: 20px;
+   
+      .addStudent__title {
+   
+         h1 {
+            font-size: 40px;
+         }
+      }
+   
+      .addStudent__form {
+   
+         display: grid;
+         grid-template-columns: auto auto;
+   
+            .addStudent__form__block{
+               display: flex;
+               flex-direction: column;
+               width: 100%;
+      
+               padding: 5px 10px;
+      
+      
+               .addStudent__form__label {
+      
+               }
+      
+               .addStudent__form__input {
+                  padding: 15px 10px;
+               }
+            }
+      
+            .addStudent__form__button {
+               margin: 20px 0 0px 0;
+               padding: 15px 10px;
+            }
+      }
+   }
+   
+
+   .studentsTable {
+
+      width: 100%;
+      border-collapse: collapse;
+   
+      .studentsTable__thead{
+         padding: 5px 10px;
+         border: 1px solid #a9a9a9;
+      }
+   
+      .studentsTable__tbody {
+   
+      }
+   
+      .studentsTable__thead {
+   
+      }
+
+      .studentsTable__th {
+         padding: 10px 5px;
+         border: 2px solid #a9a9a9;
+      }
+
+      .studentsTable__td {
+         padding: 10px 5px;
+         border: 2px solid #a9a9a9;
+      }
+
+      .studentsTable__tr {
+
+
+         .studentsTable__td {
+
+            button {
+               width: 100%;
+               padding: 10px 3px;
+               margin: 0 auto;
+   
+               
+               color: #fff;
+               font-weight: 700;
+               
+               background-color: red;
+               border: none;
+            }
+         }
+      }
+   }
+   
+}
+
+.container {
+   width: 80%;
+   margin: 0 auto;
+   padding: 50px 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+.sorted {
+   background-color: #f0f0f0;
+   color: #000;
+}

@@ -1,0 +1,245 @@
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\appsettings.Development.json
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\appsettings.json
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\students_backend.exe
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\students_backend.deps.json
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\students_backend.runtimeconfig.json
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\students_backend.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\students_backend.pdb
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.csproj.AssemblyReference.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.AssemblyInfoInputs.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.AssemblyInfo.cs
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.csproj.CoreCompileInputs.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\staticwebassets\msbuild.students_backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\staticwebassets\msbuild.build.students_backend.props
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.students_backend.props
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.students_backend.props
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\scopedcss\bundle\students_backend.styles.css
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students.88D70A2C.Up2Date
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\refint\students_backend.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.pdb
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.genruntimeconfig.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\ref\students_backend.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Aspire.Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Humanizer.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Npgsql.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Npgsql.DependencyInjection.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\Npgsql.OpenTelemetry.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\OpenTelemetry.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students\students_backend\obj\Debug\net8.0\students_backend.sourcelink.json
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\appsettings.Development.json
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\appsettings.json
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\students_backend.exe
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\students_backend.deps.json
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\students_backend.runtimeconfig.json
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\students_backend.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\students_backend.pdb
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Aspire.Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Humanizer.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Npgsql.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Npgsql.DependencyInjection.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Npgsql.OpenTelemetry.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\OpenTelemetry.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.csproj.AssemblyReference.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.AssemblyInfoInputs.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.AssemblyInfo.cs
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.csproj.CoreCompileInputs.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\staticwebassets\msbuild.students_backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\staticwebassets\msbuild.build.students_backend.props
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.students_backend.props
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.students_backend.props
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\scopedcss\bundle\students_backend.styles.css
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students.88D70A2C.Up2Date
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\refint\students_backend.dll
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.pdb
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\students_backend.genruntimeconfig.cache
+C:\MyFiles\university\Гарбар Фронтенд\Students Framework\students_backend\obj\Debug\net8.0\ref\students_backend.dll
